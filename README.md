@@ -17,3 +17,7 @@ Yamdb_final это учебный проект, в котором реализо
     sudo docker-compose exec web python manage.py collectstatic --no-input 
 
  
+### Статус workflow 
+![yamdb_final](https://github.com/Nasibao/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+ 
